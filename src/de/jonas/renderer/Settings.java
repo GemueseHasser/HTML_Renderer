@@ -1,4 +1,4 @@
-package de.jonas.internetexplorer;
+package de.jonas.renderer;
 
 import javax.swing.*;
 import java.awt.*;
