@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HTMLRenderer:jar">
+    <output-path>$USER_HOME$/Desktop/Java</output-path>
+    <root id="archive" name="HTMLRenderer.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="HTMLRenderer" />
+    </root>
+  </artifact>
+</component>
